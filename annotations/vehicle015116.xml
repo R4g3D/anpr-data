@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>vehicle015116.jpg</filename>
+    <size>
+        <width>750</width>
+        <height>562</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>vehicle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>127</xmin>
+            <ymin>137</ymin>
+            <xmax>673</xmax>
+            <ymax>352</ymax>
+        </bndbox>
+    </object>
+</annotation>
